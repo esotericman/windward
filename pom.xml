@@ -57,7 +57,7 @@
         <thymeleaf-layout-dialect.version>3.3.0</thymeleaf-layout-dialect.version>
         <groovy-templates.version>4.0.22</groovy-templates.version>
         <freemarker.version>2.3.33</freemarker.version>
-        <bcpkix-jdk18on.version>1.78.1</bcpkix-jdk18on.version>
+        <bcpkix-jdk18on.version>1.80</bcpkix-jdk18on.version>
     </properties>
 
     <dependencies>
